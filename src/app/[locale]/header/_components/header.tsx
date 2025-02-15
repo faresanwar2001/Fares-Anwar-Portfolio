@@ -21,7 +21,7 @@ export default function HeaderSection() {
     </h1>
 
     {/* Button */}
-    <Link href="" className="bg-[#F82BA9] rounded-md px-10 py-4 text-white font-[400] relative">{t("resume")}<i className="fa-solid ltr:ml-2 rtl:mr-2 rtl:scale-x-[-1] fa-arrow-up-right-from-square"></i>
+    <Link href="https://drive.google.com/file/d/17xlm5C3scm6XKqTCACFWEA1oBF0_NbHE/view?usp=sharing" target="_blank" className="bg-[#F82BA9] rounded-md px-10 py-4 text-white font-[400] relative">{t("resume")}<i className="fa-solid ltr:ml-2 rtl:mr-2 rtl:scale-x-[-1] fa-arrow-up-right-from-square"></i>
     </Link>
   </div>
 
