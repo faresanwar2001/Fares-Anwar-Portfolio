@@ -1,0 +1,24 @@
+{
+    "home":"Home",
+    "about":"About",
+    "projects":"Projects",
+    "support":"Support",
+    "contact":"Contact",
+    "header-heading":"Passionate about creativity always striving for",
+    "excellence":"excellence",
+    "start":"Start now",
+    "react-developer":"ReactJs Developer",
+    "about-description":" Welcome to Fares Anwar's Portfolio! I'm a dedicated React.js developer passionate about crafting intuitive web experiences. With a focus on clean code and innovation, I specialize in building modern applications that exceed expectations. Explore my projects to see how I blend creativity with technical expertise. Let's create something remarkable together!",
+    "more-description":"Clean and maintainable code that maximizes the power of reusable components. I believe in simplicity and efficiency, ensuring every line enhances the user experience. By leveraging Next.js and React’s ecosystem, I boost productivity without sacrificing quality. From optimizing frontend performance to crafting dynamic interfaces, I follow best practices to build scalable solutions. Explore my portfolio to see how I merge clean code principles with modern tools to deliver seamless digital experiences.",
+    "resume":"Resume",
+    "email":"Email",
+    "phone":"Phone",
+    "degree":"Degree",
+    "country":"Country",
+    "freelancer":"Freelancer",
+    "available":"Available",
+    "bachelor":"Bachelor",
+    "cairo":"Cairo",
+    "about-section":"ABOUT"
+
+}
