@@ -20,7 +20,7 @@ export default function HeaderSection() {
 
             {/* Navigate CV */}
             <Link
-              href="https://drive.google.com/file/d/1NPPdU_dq4j0DIT7_xk5Cer7peHVFI9iP/view?usp=sharing"
+              href="https://drive.google.com/file/d/1HkgiUstoJc1E--7b4nVv78y3gGUFhhV3/view?usp=sharing"
               target="_blank"
               className="bg-[#F82BA9] rounded-md px-10 py-4 text-white font-[400] relative"
             >
